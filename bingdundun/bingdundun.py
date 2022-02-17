@@ -1,3 +1,4 @@
+#coding=utf-8
 import turtle
 
 turtle.title('让每个人实现冰墩墩自由!!!')
